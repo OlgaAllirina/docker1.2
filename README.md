@@ -1,5 +1,5 @@
-Создал образ:
-docker image build . --tag=my_app:2.3
+Создала образ:
+docker image build . --tag=my_hw:1.1
 
-запустил контейнер:
-docker run -d -p 7760:5050 my_app:2.3
+запустила контейнер:
+docker run -d -p 7740:5050 my_hw:1.1
